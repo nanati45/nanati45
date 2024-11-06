@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi , I'm Nananti Asamnew👋
 
 <!--
 **nanati45/nanati45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
+I'm a fourth-year Software Engineering student at Adama Science and Technology University. I specialize in web development and enjoy building applications using Next.js, React, Redux and NextAuth. I'm passionate about developing scalable, user-friendly applications and continuously expanding my knowledge in modern web technologies.
